@@ -1,0 +1,10 @@
+{
+  "@account-abstraction/contracts@0.8.0/IAccount.sol": ".deps/npm/@account-abstraction/contracts@0.8.0/IAccount.sol",
+  "@account-abstraction/contracts@0.7.0/interfaces/IAccount.sol": ".deps/npm/@account-abstraction/contracts@0.7.0/interfaces/IAccount.sol",
+  "@account-abstraction/contracts@0.7.0/interfaces/PackedUserOperation.sol": ".deps/npm/@account-abstraction/contracts@0.7.0/interfaces/PackedUserOperation.sol",
+  "@openzeppelin/contracts@5.0.0/utils/cryptography/ECDSA.sol": ".deps/npm/@openzeppelin/contracts@5.0.0/utils/cryptography/ECDSA.sol",
+  "@openzeppelin/contracts@5.0.0/utils/cryptography/MessageHashUtils.sol": ".deps/npm/@openzeppelin/contracts@5.0.0/utils/cryptography/MessageHashUtils.sol",
+  "@openzeppelin/contracts@5.0.0/utils/Strings.sol": ".deps/npm/@openzeppelin/contracts@5.0.0/utils/Strings.sol",
+  "@openzeppelin/contracts@5.0.0/utils/math/Math.sol": ".deps/npm/@openzeppelin/contracts@5.0.0/utils/math/Math.sol",
+  "@openzeppelin/contracts@5.0.0/utils/math/SignedMath.sol": ".deps/npm/@openzeppelin/contracts@5.0.0/utils/math/SignedMath.sol"
+}
